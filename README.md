@@ -44,10 +44,9 @@ Here are a few of my skills, shown below.
 ### Socials
 <div align="left">
   <a href="https://github.com/wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="40" /></a>
-  <img width="10" />
+  <img width="5" />
   <a href="https://www.youtube.com/@wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" height="40" /></a>
-  <img width="1" />
+  <img width="5" />
   <a href="https://discord.com/users/neptnept." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40" /></a>
-  <img width="1" />
 </div>
 
