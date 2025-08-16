@@ -31,7 +31,7 @@ Here are a few of my skills, shown below.
 </div>
 
 
-### Databases
+### Database
 <div align="left">
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" /></a>
   <img width="1" />
