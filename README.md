@@ -13,7 +13,7 @@ Here are a few of my skills, shown below.
   <img width="17" />
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" height="40" /></a>
   <img width="1" />
-  <a href="https://doc.qt.io/qtforpython-6//" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt" height="40" /></a>
+  <a href="https://doc.qt.io/qtforpython-6//" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Can use PyQt and QSS" height="40" /></a>
 </div>
   
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;know the basics </h4>
