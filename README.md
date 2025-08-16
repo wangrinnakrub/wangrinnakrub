@@ -2,17 +2,19 @@ Hi, I'm Navy
 ========================
 <h4> I’m new here, any tips are very welcome.
 <br>
-Here are a few of my skills, shown below.
+Here are a few of my skills, shown below. </h4>
 
 
 ### Programming Languages
 
 <h4> I’m pretty confident.
+  
 <div align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" height="40" /></a>
 </div>
   
 <h4> know the basics
+  
 <div align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" height="40" /></a>
   <img width="1" />
