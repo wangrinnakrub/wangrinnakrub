@@ -39,16 +39,16 @@ Here are a few of my skills, shown below.
 ### Tools
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" height="40" /></a>
-  <img width="3" />
+  <img width="10" />
   <a href="https://github.com/wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="38" /></a>
 </div>
 
 ### Socials
 <div align="left">
   <a href="https://github.com/wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="38" /></a>
-  <img width="5" />
+  <img width="10" />
   <a href="https://www.youtube.com/@wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" height="38" /></a>
-  <img width="5" />
+  <img width="10" />
   <a href="https://discord.com/users/neptnept." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="38" /></a>
 </div>
 
