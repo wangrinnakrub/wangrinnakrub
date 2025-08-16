@@ -2,8 +2,6 @@ Hi, I'm Navy
 ========================
 <h4> I’m new here, any tips are very welcome.
 <br>
-Thank you in advance for your guidance.
-<br>
 Here are a few of my skills, shown below.
 
 
@@ -14,7 +12,7 @@ Here are a few of my skills, shown below.
 <div align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="44" alt="python logo" /></a>
   <img width="1" />  
-  <a href="[https://pypi.org/project/PyQt6/](https://doc.qt.io/qt-6/stylesheet-syntax.html)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="44" alt="python logo" /></a>
+  <a href="[https://pypi.org/project/PyQt6/](https://doc.qt.io/qt-6/stylesheet-syntax.html)" target="_blank" rel="noreferrer"><img src="[https://skillicons.dev/icons?i=python](https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png)" height="44" alt="python logo" /></a>
   <img width="1" />  
 </div>
   
