@@ -1,6 +1,6 @@
 Hi, I'm Navy
 ========================
-<h4> I’m new here, any tips are very welcome.
+I’m new here, any tips are very welcome.
 <br>
 Here are a few of my skills, shown below.
 
