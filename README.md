@@ -10,10 +10,7 @@ Here are a few of my skills, shown below.
 <h4> I’m pretty confident.
   
 <div align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="44" alt="python logo" /></a>
-  <img width="1" />  
-  <a href="[https://pypi.org/project/PyQt6/](https://doc.qt.io/qt-6/stylesheet-syntax.html)" target="_blank" rel="noreferrer"><img src="[https://skillicons.dev/icons?i=python](https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png)" height="44" alt="python logo" /></a>
-  <img width="1" />  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 </div>
   
 <h4> know the basics
