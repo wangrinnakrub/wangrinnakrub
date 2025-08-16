@@ -7,9 +7,9 @@ Here are a few of my skills, shown below.
 
 ### Programming Languages
 
-<h4 style="text-indent: 40px;" > I’m pretty confident </h4>
+<h4> I’m pretty confident </h4>
   
-<div align="left">
+<div align="left" style="text-indent: 40px;" >
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" height="40" /></a>
 </div>
   
