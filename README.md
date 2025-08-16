@@ -17,7 +17,7 @@ Here are a few of my skills, shown below.
   
 <div align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" height="40" /></a>
-  <img width="2" />
+  <img width="1" />
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" height="40" /></a>
   <img width="1" />
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" height="40" /></a>
@@ -44,7 +44,7 @@ Here are a few of my skills, shown below.
 ### Socials
 <div align="left">
   <a href="https://github.com/wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="40" /></a>
-  <img width="1" />
+  <img width="10" />
   <a href="https://www.youtube.com/@wangrinnakrub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" height="40" /></a>
   <img width="1" />
   <a href="https://discord.com/users/neptnept." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40" /></a>
